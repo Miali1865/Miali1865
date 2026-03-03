@@ -7,7 +7,7 @@ Bonjour ! Je suis **Mialivola Randrianaivo**, développeur **Front-end** passion
 ## 🚀 Compétences  
 
 - **Langages et technologies** : HTML, CSS, JavaScript, Bootstrap, jQuery  
-- **Frameworks** : Django, Springboot, Laravel, React.js, Vue.js   
+- **Frameworks** : Django, Springboot, Laravel, Symfony, React.js, Vue.js   
 - **Outils et environnements** : Git, GitHub, VS Code  
 - **Pratiques** : Responsive Design, Optimisation de performance, UX/UI  
 
